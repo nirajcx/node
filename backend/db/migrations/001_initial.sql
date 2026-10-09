@@ -1,0 +1,2 @@
+-- TODO: Write users, sessions and todos tables here. See IMPLEMENTATION.md for columns and constraints.
+-- This file intentionally contains no implemented schema.
